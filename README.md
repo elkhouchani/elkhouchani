@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences with my <a href="https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR" target="_blank" rel="noopener noreferrer"
    style="color: inherit; text-decoration: none; cursor: pointer;">
-  <strong>resume</strong>
+  <strong>Resume</strong>
 </a> 
 
 <h3 align="left">Connect with me:</h3>
