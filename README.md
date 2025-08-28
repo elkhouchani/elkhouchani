@@ -9,11 +9,14 @@
 
 - 🌱 I’m currently learning **AI Engineering**
 
-- 🤝 I’m looking for help with **Job opportunity**
+- 🤝 I’m looking for help with a **Job opportunity**
 
 - 📫 How to reach me **sihamelkhouchani@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR](https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR)
+- 📄 Know about my experiences with my <a href="[https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR](https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR)" target="_blank" rel="noopener noreferrer"
+   style="color: inherit; text-decoration: none; cursor: pointer;">
+  resume
+</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
