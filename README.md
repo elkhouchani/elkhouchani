@@ -21,9 +21,8 @@
 <h1 align="center">Hi 👋, I'm Siham EL KHOUCHANI</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elkhouchani&label=Profile%20views&color=0e75b6&style=flat" alt="elkhouchani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elkhouchani" alt="elkhouchani" /></a> </p>
+/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elkhouchani" alt="elkhouchani" /></a> </p>*/
 
 - 🔭 I’m currently working on **Tuning AI models**
 
