@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sihamelkhouchani@gmail.com**
 
-- 📄 Know about my experiences with my <a href="[https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR](https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR)" target="_blank" rel="noopener noreferrer"
+- 📄 Know about my experiences with my <a href="https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR" target="_blank" rel="noopener noreferrer"
    style="color: inherit; text-decoration: none; cursor: pointer;">
   resume
 </a> 
