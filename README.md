@@ -56,11 +56,6 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25ieGlmaWFwc2dxcDM0YTc2c
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elkhouchani&" alt="elkhouchani" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
  <img height="300" weight="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBjMXdjMHNtYWhxcmE0cHRjOG1kYXJscTZhaHA0dGYxeXE1N29ieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsQI8BOmtcVvwodrbk/giphy.gif"/>
 </div>
