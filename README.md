@@ -22,8 +22,8 @@
 <h3 align="center">Software Engineer</h3>
 
 
-/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elkhouchani" alt="elkhouchani" /></a> </p>*/
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elkhouchani" alt="elkhouchani" /></a> </p>
+-->
 - 🔭 I’m currently working on **Tuning AI models**
 
 - 🌱 I’m currently learning **AI Engineering**
