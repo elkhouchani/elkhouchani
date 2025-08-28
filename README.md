@@ -53,6 +53,11 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25ieGlmaWFwc2dxcDM0YTc2c
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elkhouchani&show_icons=true&locale=en" alt="elkhouchani" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elkhouchani&" alt="elkhouchani" /></p>
  <img height="300" weight="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBjMXdjMHNtYWhxcmE0cHRjOG1kYXJscTZhaHA0dGYxeXE1N29ieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsQI8BOmtcVvwodrbk/giphy.gif"/>
 </div>
