@@ -36,7 +36,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25ieGlmaWFwc2dxcDM0YTc2c
 
 - 📫 How to reach me **sihamelkhouchani@gmail.com**
 
-- 📄 Know about my experiences with my <a href="https://cvdesignr.com/p/68a498d98b1b8?hl=fr_FR" target="_blank" rel="noopener noreferrer"
+- 📄 Know about my experiences with my <a href="https://cvdesignr.com/p/68d2a52785658" target="_blank" rel="noopener noreferrer"
    style="color: inherit; text-decoration: none; cursor: pointer;">
   <strong>Resume</strong>
 </a> 
