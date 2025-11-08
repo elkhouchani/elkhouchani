@@ -28,11 +28,11 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25ieGlmaWFwc2dxcDM0YTc2c
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elkhouchani" alt="elkhouchani" /></a> </p>
 -->
-- 🔭 I’m currently working on **Tuning AI models**
+- 🔭 I’m A **.NET Developer**
 
-- 🌱 I’m currently learning **AI Engineering**
+- 🌱 I’m currently learning about **AI Engineering & Machine Learning**
 
-- 🤝 I’m looking for help with a **Job opportunity**
+- 🤝 I’m looking for a **Job opportunity**
 
 - 📫 How to reach me **sihamelkhouchani@gmail.com**
 
